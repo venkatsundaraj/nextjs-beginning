@@ -1,0 +1,16 @@
+.section img {
+  width: 100%;
+  text-align: center;
+}
+
+.section h1,
+.section address,
+.section p {
+  text-align: center;
+  color: #111;
+}
+
+.address {
+  color: #111;
+  font-size: 3rem;
+}
